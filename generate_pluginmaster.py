@@ -8,7 +8,7 @@ from zipfile import ZipFile, ZIP_DEFLATED
 DOWNLOAD_URL = 'https://github.com/reusk/MyDalamudPlugins/raw/master/plugins/{plugin_name}/latest.zip'
 
 DEFAULTS = {
-    'IsHide': True,
+    'IsHide': False,
     'IsTestingExclusive': False,
     'ApplicableVersion': 'any',
 }
