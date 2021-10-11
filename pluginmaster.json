@@ -9,7 +9,7 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 4,
         "DownloadLinkInstall": "https://github.com/reusk/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
-        "IsHide": true,
+        "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/reusk/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
         "DownloadLinkUpdate": "https://github.com/reusk/MyDalamudPlugins/raw/master/plugins/XIVComboExpandedest/latest.zip",
